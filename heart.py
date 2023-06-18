@@ -27,7 +27,7 @@ def text(): #text inside
     pen.setpos(-40, 83)
     pen.down()
     pen.color('white')
-    pen.write("I love you", font=("Verdana", 14, "bold"))
+    pen.write("I love You", font=("Verdana", 14, "bold"))
     pen.up()
 
 pen.ht()
